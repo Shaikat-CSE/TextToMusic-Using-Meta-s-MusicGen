@@ -1,0 +1,5 @@
+pytorch
+numpy
+transformers
+scipy
+ipython
